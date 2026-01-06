@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl3cDQ4YjVkMG50cTBsODNycThvNDlscTYwanloOWZmdjBlNDIzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vThGQEkz4f9eg/giphy.gif">
+</p>
