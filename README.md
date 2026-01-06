@@ -1,5 +1,3 @@
-### Hi, my name is Artur, welcome to my profile 🤙
-
 <!--
 **PapaArt/PapaArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <a href="https://github.com/PapaArt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PapaArt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Olá! Eu sou o Artur 🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
