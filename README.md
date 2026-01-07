@@ -48,3 +48,43 @@ Here are some ideas to get you started:
   <img height="280" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl3cDQ4YjVkMG50cTBsODNycThvNDlscTYwanloOWZmdjBlNDIzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vThGQEkz4f9eg/giphy.gif">
 </p>
 
+---
+
+<h2>👨🏻‍💻 &nbsp; Mais sobre mim e meus interesses</h2>
+
+```yaml
+name: Artur Papa
+localizado_em: Ipatinga, Minas Gerais
+trabalho_atual: Desenvolvedor Full Stack
+educacao:
+  [
+    "Bacharelado em Ciência da Computação",
+    "Curso de Data Science pela 365 Careers",
+    "Autoaprendizagem em DevOps e criação de conteúdo",
+    "Certificado de finanças e investimentos pela AUVP"  
+  ]
+empresa: Vizus
+
+campos_de_interesse:
+  [
+    "Desenvolvimento Web e Desktop",
+    "Inteligência Artificial e relacionados",
+    "Desenvolvimento Backend",
+    "DevOps",
+    "Desenvolvimento em nuvem"
+  ]
+background_tecnico:
+  [
+    "Desenvolvedor Full Stack",
+    "Arquiteto de soluções em DevOps",
+    "Machine Learning e visão computacional com Roboflow",
+    "Soluções de problemas usando meta-heurística",
+  ]
+
+aprendendo_atualmente: ["DevOps","CI/CD","Docker","Kubernets","Prometheus", "Grafana"]
+objetivos_2025: ["Criar 25+ projetos pessoais, ajudar a minha empresa e fazer freelances com DevOps e Desenvolvimento."]
+hobbies: ["Leitura", "Música", "Criação de conteúdo"]
+```
+
+
+
