@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <h2>👨🏻‍💻 &nbsp; Mais sobre mim e meus interesses</h2>
 
 ```yaml
-name: Artur Papa
+nome: Artur Papa
 localizado_em: Ipatinga, Minas Gerais
 trabalho_atual: Desenvolvedor Full Stack
 educacao:
