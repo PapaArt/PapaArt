@@ -81,7 +81,7 @@ background_tecnico:
     "Soluções de problemas usando meta-heurística",
   ]
 
-aprendendo_atualmente: ["DevOps","CI/CD","Docker","Kubernets","Prometheus", "Grafana"]
+aprendendo_atualmente: ["DevOps","CI/CD","Docker","Kubernets","Prometheus", "Grafana", "GO"]
 objetivos_2025: ["Criar 25+ projetos pessoais, ajudar a minha empresa e fazer freelances com DevOps e Desenvolvimento."]
 hobbies: ["Leitura", "Música", "Criação de conteúdo"]
 ```
