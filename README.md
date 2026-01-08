@@ -120,8 +120,9 @@ hobbies: ["Leitura", "Música", "Criação de conteúdo"]
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="45" height="45"/> -->
-
 </p>
+
+![Snake animation](https://github.com/PapaArt/PapaArt/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
